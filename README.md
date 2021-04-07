@@ -6,9 +6,9 @@ Smart keylogger with LOG System incorporated, this track your public ip and your
 
 for (Termux or iSH)
 
-`apt update && apt upgrade`
-`pkg install python`
-`apt install git`
-`git clone https://github.com/CRAZYR00T/keyloggerv.01.git`
-`cd keyloggerv.01`
-`pip install -r requirements.txt`
+`apt update && apt upgrade
+pkg install python
+apt install git
+git clone https://github.com/CRAZYR00T/keyloggerv.01.git
+cd keyloggerv.01
+pip install -r requirements.txt`
