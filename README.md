@@ -4,6 +4,13 @@ Smart keylogger with LOG System incorporated, this will track the public ip and 
 
 (NEED TO CONVERT TO A .EXE FILE!!!)
 
+## CONVERTING TO A .EXE FILE
+Install pyinstaller:
+```pip install pyinstaller```
+
+Convert the file:
+```pyinstaller --onefile {script name}.py```
+
 ## Installation
 
 #### for (Termux or iSH)
