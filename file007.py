@@ -140,7 +140,7 @@ def send_logs():
                 print('deleting files')
 
                 count += 1
-                time.sleep(60)
+                time.sleep(180)
     
             except Exception as errorString:
                 print('[!] send_logs // Error.. ~ %s' % (errorString))
